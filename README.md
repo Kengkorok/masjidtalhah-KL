@@ -27,4 +27,8 @@ Laman web yang sedang dibangunkan untuk menyediakan:
 **Masjid Talhah Bin Ubaidillah**  
 Bukit Jalil, Kuala Lumpur 🇲🇾
 
+
+### Penghargaan
+
+Usaha pendigitalan dan pembangunan multimedia Masjid Talhah Bin Ubaidillah turut digerakkan oleh [@Kengkorok](https://github.com/Kengkorok), khususnya dalam pembangunan laman web, kandungan digital dan inisiatif teknologi masjid.
 _Memanfaatkan teknologi untuk memudahkan penyampaian maklumat dan khidmat kepada komuniti._
