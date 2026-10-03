@@ -30,6 +30,6 @@ Bukit Jalil, Kuala Lumpur 🇲🇾
 
 ### Penghargaan
 
-Usaha pendigitalan dan pembangunan multimedia Masjid Talhah Bin Ubaidillah turut digerakkan oleh [@Kengkorok](https://github.com/Kengkorok), khususnya dalam pembangunan laman web, kandungan digital dan inisiatif teknologi masjid. Sebarang maklum balas atau cadangan boleh hubungi pihak kami di [_Facebook Page_](https://facebook.com/masjidtalhahkl/)
+Usaha pendigitalan dan pembangunan multimedia Masjid Talhah Bin Ubaidillah turut digerakkan oleh [@Kengkorok](https://github.com/Kengkorok), khususnya dalam pembangunan laman web, kandungan digital dan inisiatif teknologi masjid. Sebarang maklum balas atau cadangan boleh hubungi pihak kami di [Facebook Page](https://facebook.com/masjidtalhahkl/).
 
 _Memanfaatkan teknologi untuk memudahkan penyampaian maklumat dan khidmat kepada komuniti._
