@@ -18,7 +18,7 @@ Laman web yang sedang dibangunkan untuk menyediakan:
 - Sistem pengurusan kandungan
 - Perkhidmatan digital untuk komuniti dan anak kariah
 
-**[Jadual Kuliah Bulanan](https://github.com/masjidtalhah-KL/JadualKuliahBulanan)
+**[Jadual Kuliah Bulanan](https://github.com/masjidtalhah-KL/JadualKuliahBulanan)**
 
 Jadual Kuliah Bulanan generator. Repo ini menyimpan hasil code yang dibantu oleh ChatGPT menggunakan model LLM GPT6 Astra bagi menghasilkan output dan design yang mirip dengan design asal mengggunakan perisian Adobe Photoshop.
 Repo ini memudahkan proses membina jadual kuliah tanpa mengubah keseluruhan struktur atau template. Hanya perlu masukkan data seperti :
