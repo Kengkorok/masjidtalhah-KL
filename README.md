@@ -18,6 +18,18 @@ Laman web yang sedang dibangunkan untuk menyediakan:
 - Sistem pengurusan kandungan
 - Perkhidmatan digital untuk komuniti dan anak kariah
 
+**[Jadual Kuliah Bulanan](https://github.com/masjidtalhah-KL/JadualKuliahBulanan)
+
+Jadual Kuliah Bulanan generator. Repo ini menyimpan hasil code yang dibantu oleh ChatGPT menggunakan model LLM GPT6 Astra bagi menghasilkan output dan design yang mirip dengan design asal mengggunakan perisian Adobe Photoshop.
+Repo ini memudahkan proses membina jadual kuliah tanpa mengubah keseluruhan struktur atau template. Hanya perlu masukkan data seperti :
+
+- Nama Penceramah
+- Tajuk
+- Upload poster penuh
+- Gambar penceramah
+
+Ia juga memudahkan pemilihan kotak hari bulan dengan hanya klik pada kotak yang perlu diedit, tak lagi pening kepala dengan layer-layer dalam Photoshop. Orang awam yang ingin mencuba Jadual Kuliah Generator ini, boleh pergi ke repo asal dari Idea & Pencipta Repo [@Kengkorok] atau terus ke repo [jadual-kuliah-generator](https://github.com/Kengkorok/jadual-kuliah-generator)
+
 ### 🛠️ Teknologi
 
 `Next.js` · `TypeScript` · `Tailwind CSS` · `Sanity CMS`
